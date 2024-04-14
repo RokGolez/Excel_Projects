@@ -13,7 +13,7 @@ This repository contains an Excel-based analysis of bike sales data. The purpose
 To start exploring the bike sales analysis:
 
 1. **Clone or Download**: Ensure you have a local copy of the repository.
-2. **Open Excel Workbook**: Navigate to the 'Bike_Sales_Analysis.xlsx' file and open it with Microsoft Excel.
+2. **Open Excel Workbook**: Navigate to the 'Bike_Sales.xlsx' file and open it with Microsoft Excel.
 3. **Explore the Sheets**: Each sheet in the workbook offers a different viewpoint of the data, with the 'Dashboard' sheet providing a high-level overview.
 
 ## 📊 Dashboard Overview
@@ -29,10 +29,8 @@ The 'Dashboard' sheet is the heart of the workbook, where you can find:
 Other sheets in the workbook might include:
 
 - 'Raw Data': The original sales data before any processing.
-- 'Yearly Trends': Detailed charts and tables showing yearly sales patterns.
-- 'Product Analysis': A deep dive into the performance of different bike models.
-- 'Customer Insights': Segmentation and analysis of customer types and preferences.
-
+- 'Working Sheet': Cleaned data used for the analysis.
+- 
 ## 🔍 Data Cleaning and Preparation
 
 Data integrity is crucial for accurate analysis. Therefore, the project includes steps such as:
