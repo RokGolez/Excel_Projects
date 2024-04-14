@@ -30,7 +30,7 @@ Other sheets in the workbook might include:
 
 - 'Raw Data': The original sales data before any processing.
 - 'Working Sheet': Cleaned data used for the analysis.
-- 
+
 ## 🔍 Data Cleaning and Preparation
 
 Data integrity is crucial for accurate analysis. Therefore, the project includes steps such as:
