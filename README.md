@@ -1,6 +1,6 @@
 # 📊 Excel Projects Collection
 
-👋 Welcome to my collection of Excel projects! This repository section is dedicated to showcasing my work with Excel, demonstrating data manipulation, analysis, and visualization skills.
+👋 Welcome to my collection of Excel projects. This repository section is dedicated to showcasing my work with Excel, demonstrating data manipulation, analysis, and visualization skills.
 
 ## 📁 Repository Structure
 
@@ -25,6 +25,8 @@ Feel free to use these projects as templates for your own data analysis tasks or
 ## 💬 Feedback and Contributions
 
 Suggestions for improvements or new Excel techniques are always appreciated. If you'd like to contribute to a project, please fork the repository and share your enhancements.
+
+Thank you for exploring my Excel projects.
 
 ## ©️ License
 
