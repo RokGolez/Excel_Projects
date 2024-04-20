@@ -22,7 +22,7 @@ The 'Final Outputs' sheet is the heart of the workbook, where you can find:
 
 - Calculations of the yearly percentage increase in debt compared to the previous year.
 - Projections of future growth in public debt.
-- Visual graphs that may include debt trends over time, debt as a percentage of GDP, and forecasted debt figures.
+- Visual graphs that include debt trends over time, and forecasted debt figures.
 
 ## 📑 Additional Sheets
 
