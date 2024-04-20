@@ -1,10 +1,10 @@
-# 💹 US Debt Tracker Project
+# 📊 US Debt Tracker Project
 
 ## 🌐 Overview
 
 This repository contains an Excel-based analysis of US public debt data. The purpose of this project is to provide a clear picture of the historical changes in debt and to forecast future trends. These insights are essential for understanding fiscal policy implications and economic planning.
 
-## 💼 Tools Used
+## 🛠️ Tools Used
 
 - **Excel**: Utilized for its robust data processing and visualization capabilities, enabling detailed financial analysis and forecasting.
 
@@ -24,7 +24,7 @@ The 'Final Outputs' sheet is the heart of the workbook, where you can find:
 - Projections of future growth in public debt.
 - Visual graphs that may include debt trends over time, debt as a percentage of GDP, and forecasted debt figures.
 
-## 🗂️ Additional Sheets
+## 📑 Additional Sheets
 
 Other sheets in the workbook include:
 
