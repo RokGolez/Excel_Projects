@@ -50,7 +50,7 @@ From this analysis, key insights include:
 
 ## 🤝 Contributing
 
-Contributions to this project are welcome. Enhancements could be around additional data analysis, refining forecasts, or improving data visualizations.
+Contributions to this project are welcome. If you have suggestions for improving the analysis, enhancing data visualizations, or extending the dataset, please feel free to fork the repository and submit your pull requests. 
 
 ## ©️ License
 
