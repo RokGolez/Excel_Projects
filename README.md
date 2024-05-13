@@ -8,7 +8,7 @@ Each folder within this collection contains a standalone Excel project, includin
 
 - Excel workbooks with data models, formulas, and pivot tables.
 - Charts and visualizations that provide insights into the data.
--  'README.md` file detailing the project's purpose, methodologies, and conclusions.
+-  `README.md`file detailing the project's purpose, methodologies, and conclusions.
 
 ## Exploring the Projects
 
