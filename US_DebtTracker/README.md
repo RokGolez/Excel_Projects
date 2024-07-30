@@ -52,7 +52,7 @@ From this analysis, key insights include:
 
 Contributions to this project are welcome. If you have suggestions for improving the analysis, enhancing data visualizations, or extending the dataset, please feel free to fork the repository and submit your pull requests. 
 
-## ©️ License
+## License
 
 All projects within this repository are open-sourced under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
